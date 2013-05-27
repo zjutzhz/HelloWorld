@@ -27,3 +27,5 @@ _ReSharper*/
 [Tt]est[Rr]esult*
 *.vssscc
 $tf*/
+OpenCV.opensdf
+ipch/opencvtest-3780bf92/opencvtest-296a8017.ipch

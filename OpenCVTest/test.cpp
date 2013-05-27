@@ -6,7 +6,7 @@ using namespace cv;
  
 int _tmain(int argc, _TCHAR* argv[])
 {
-	const char* imagename = "D:\\Users\\Zheng\\Pictures\\0271.jpg";
+	const char* imagename = "0271.jpg";
  
 	//从文件中读入图像
 	Mat img = imread(imagename);
